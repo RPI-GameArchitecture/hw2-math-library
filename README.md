@@ -27,4 +27,12 @@ both using your vector and math library.
 You do not need to draw the sprites rotated, but use your vec3f and mat4f classes to represent their positions, orientations, and movements.
 (Recall that movement in 2 dimensions is a special case of movement in 3 dimensions)
 
-To submit this assignment, 
+To submit this assignment:
+
+1. clone your working repository from Submitty:
+
+git clone https://submitty.cs.rpi.edu/git/s19/cogs4550/hw2/{username}
+
+2. this will clone a bare empty directory from the submitty server to your local machine. 
+3. add the sample code from this repository into your working repo
+4. commit and push to upload your work back to the submitty git server.  You only need to add the source files you have changed (.cpp and .h), you do not need to add build files.
