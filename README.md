@@ -26,3 +26,5 @@ and a player-controlled sprite with translational and rotational movement, such 
 both using your vector and math library.
 You do not need to draw the sprites rotated, but use your vec3f and mat4f classes to represent their positions, orientations, and movements.
 (Recall that movement in 2 dimensions is a special case of movement in 3 dimensions)
+
+To submit this assignment, 
