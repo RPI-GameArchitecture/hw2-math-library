@@ -1,5 +1,7 @@
-# ga2018-homework2
+# Homework2 - Math Library
 Second homework for Game Architecture.
+
+Due: Monday 2/4/19, 11:59pm
 
 In this homework you will implement parts of vector and matrix math library. 
 See src/engine/math/ga_vec3f.h and src/engine/math/ga_mat4f.cpp.
